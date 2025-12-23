@@ -1,4 +1,4 @@
-# TP-Link Archer T2U Plus a.k.a AC600 High-Gain
+# TP-Link Archer T2U Plus a.k.a AC600 High-Gainb
 
 
 &nbsp;
